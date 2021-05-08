@@ -1,0 +1,15 @@
+com\employee\domain\BaseDomain.class
+com\employee\impl\EmployeeServiceImpl.class
+com\employee\domain\CandidateDocument.class
+com\employee\service\EmployeeService.class
+com\employee\model\CandidateRequest.class
+com\employee\domain\Employee.class
+com\employee\repository\CandidateRepository.class
+com\employee\domain\EmployeeDocument.class
+com\employee\employeeservice\EmployeeserviceApplication.class
+com\employee\util\ResponseUtil.class
+com\employee\domain\RequestObject.class
+com\employee\domain\ResponseObject.class
+com\employee\rest\EmpRest.class
+com\employee\model\CandidateResponse.class
+com\employee\repository\EmployeeRepository.class
